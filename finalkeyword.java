@@ -16,7 +16,7 @@ class finalkeyword
     public static void main(String [] args)
     {
         display d = new display();
-        d.s = "hi";
+        /*d.s = "hi";*/
         d.print();
     }
 }

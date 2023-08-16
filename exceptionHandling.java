@@ -23,5 +23,5 @@ public class exceptionHandling {
             System.out.println("exception occured");
             System.out.print(e);
         }
-      }
+    }
 }
